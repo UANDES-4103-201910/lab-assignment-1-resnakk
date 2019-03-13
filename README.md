@@ -1,6 +1,6 @@
 # lab-assignment-1
 # Mauricio Sanchez
-Base project for lab assignment 1
+
 3.- 
 The "Elements" tab show us the structure of the page, in this case "Hackers News", wich have a head and body. Also opens the page with: <html op = "news">, and close it with </html>.
 The head section there is configured the dimensions of the page with "meta", the URL as "link", and finally the title, as "title".
